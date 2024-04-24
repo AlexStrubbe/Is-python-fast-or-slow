@@ -21,3 +21,7 @@ Utilize appropriate tables and graphics for comparison.
 Analyze how processing time grows with the dimensionalities of the arrays.
 Compare processing time variations between vectors (1-D arrays) and matrices (2-D arrays) without NumPy versus with NumPy.
 Investigate the development language of NumPy and its impact on performance.
+
+Video presentation:
+----------------------------------
+https://youtu.be/7w6PVYckEns
